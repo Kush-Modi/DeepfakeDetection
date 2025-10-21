@@ -179,8 +179,10 @@ Refer to the model and dependencies' individual licenses for usage terms.
 ---
 
 ### Screenshots & Demo
+<img width="1523" height="913" alt="Screenshot 2025-10-21 172924" src="https://github.com/user-attachments/assets/9fa4d575-e336-4c90-88ea-f919a5c7a285" />
 
 <img width="789" height="632" alt="Screenshot 2025-10-21 173007" src="https://github.com/user-attachments/assets/bb2f3299-c671-4dc7-8123-23df5cbafb43" />
+
 
 ---
 
@@ -189,5 +191,6 @@ Refer to the model and dependencies' individual licenses for usage terms.
 ---
 
 *Feel free to contribute or raise issues to improve this project.*
+
 
 
